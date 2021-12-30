@@ -1,0 +1,1 @@
+<view class="content"><button data-event-opts="{{[['tap',[['toTask',['$event']]]]]}}" bindtap="__e">开始坦白言</button><button>查看TA对我的坦白</button></view>

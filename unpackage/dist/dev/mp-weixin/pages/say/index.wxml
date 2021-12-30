@@ -1,0 +1,1 @@
+<view class="say _div data-v-9be0caf6"><textarea cols="30" rows="10" data-event-opts="{{[['input',[['__set_model',['','content','$event',[]]]]]]}}" value="{{content}}" bindinput="__e" class="data-v-9be0caf6"></textarea><button data-event-opts="{{[['tap',[['submit',['$event']]]]]}}" bindtap="__e" class="data-v-9be0caf6">留言</button></view>
