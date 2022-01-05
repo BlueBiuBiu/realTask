@@ -1,4 +1,7 @@
 {
   "navigationBarTitleText": "uni-app",
-  "usingComponents": {}
+  "usingComponents": {
+    "rotate-animation": "/components/rotateAnimation/index",
+    "star-animation": "/components/starAnimation/index"
+  }
 }

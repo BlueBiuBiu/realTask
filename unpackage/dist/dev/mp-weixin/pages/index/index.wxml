@@ -1,1 +1,1 @@
-<view class="content"><button data-event-opts="{{[['tap',[['toTask',['$event']]]]]}}" bindtap="__e">开始坦白言</button><button>查看TA对我的坦白</button></view>
+<view class="content"><star-animation style="position:absolute;" vue-id="8dd740cc-1" bind:__l="__l"></star-animation><view class="userInfo _div"><image src="{{userInfo.avatarUrl}}" mode="widthFix"></image><view class="_div">{{userInfo.nickName}}</view></view><navigator class="_a"><label class="_span">开始坦白言</label><view class="em1 _em"></view><view class="em2 _em"></view></navigator></view>

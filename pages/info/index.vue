@@ -22,7 +22,7 @@ export default {
     getQrcode() {
       let data = {
         scene: "123456", // 要传递的参数
-        page: "pages/info/index", // 扫码进入的小程序页面
+        page: "pages/say/index", // 扫码进入的小程序页面
       };
       wx.request({
         url: `https://api.weixin.qq.com/wxa/getwxacodeunlimit?access_token=${uni.getStorageSync("access_token")}`,
